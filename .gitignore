@@ -1,0 +1,5 @@
+
+.terraform/modules/aws_cognito_user_pool_complete_example/
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.13.0/linux_amd64/terraform-provider-aws_v4.13.0_x5
+.terraform/modules/modules.json
+.terraform.lock.hcl
